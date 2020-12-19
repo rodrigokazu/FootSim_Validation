@@ -2,9 +2,9 @@
 
 Simulating peripheral tactile responses from the sole of the foot.
 
-# The FootSim package has not been released already
+# The FootSim package has not been released yet
 
-Therefore this toolbox is for reading only. It validates the FootSim package using empirically recorded neuronal data. 
+It is expected to be available after its journal publication, in early 2021. Therefore this toolbox is for reading only. It validates the FootSim package using empirically recorded neuronal data. 
 
 All documentation is written in standard docstring format. 
 
