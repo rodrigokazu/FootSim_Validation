@@ -2,7 +2,7 @@
 
 Simulating peripheral tactile responses from the sole of the foot.
 
-#Installation
+# Installation
 
 The footsim package requires Python 3.6 or higher to run. It also requires numpy, scipy, skikit-image, numba, and matplotlib. Additionally, holoviews is required to use the simulation's inbuilt plotting functions.
 
